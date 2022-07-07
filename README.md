@@ -136,5 +136,14 @@ addEventListener(
 ```
 
 </details>
+<details>
 
 
+
+<summary>CADDYIndexPage</summary>
+
+
+https://github.com/sweetield/indexpage/blob/main/README.md
+    
+
+</details>
