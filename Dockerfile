@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="d1bed8d6-c3cd-49e1-b9b3-ab45d6b66da4"
+ARG AUUID="56000878-b4e5-41a7-abd6-2b3fd88289cb"
 ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page278/catalog-z.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
